@@ -267,6 +267,10 @@
         {
           "name": "PHP",
           "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
