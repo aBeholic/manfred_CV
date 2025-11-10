@@ -256,6 +256,14 @@
         },
         "finishDate": "2007-06-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
