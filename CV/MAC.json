@@ -1,0 +1,300 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Abelardo",
+      "surnames": "Aguado Bueno",
+      "title": "%%HEADLINE%%",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/10/0155d649-7940-4f12-ba73-bd5cd0a9faf5_avatar.jpg",
+        "alt": "avatar.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJfcIyLeb8cQ0Rcg1g0533WJI)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Granada"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/aguadobueno/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Autónomo"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2016-01-01",
+            "challenges": [
+              {
+                "description": "Como freelance realizo proyectos para webs corporativas, 𝘁𝗶𝗲𝗻𝗱𝗮𝘀 𝗼𝗻𝗹𝗶𝗻𝗲, landing de productos e incluso aplicaciones de 𝗲-𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 para academias. Procuro siempre 𝗶𝗺𝗽𝗹𝗶𝗰𝗮𝗿𝗺𝗲 en el objetivo y la esencia de la empresa y 𝗮𝗱𝗮𝗽𝘁𝗮𝗿 las soluciones a las necesidades del cliente.  Continúo mi formación como desarrollador completando algunos cursos de 𝗜𝗻𝘁𝗲𝗹𝗶𝗴𝗲𝗻𝗰𝗶𝗮 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹, por mi gran interés en el futuro de la programación.  Actualmente participo en la comunidad de 𝗙𝗿𝗲𝗲𝗖𝗼𝗱𝗲𝗖𝗮𝗺𝗽 donde también he completado algunos cursos de Vue.js y tecnologías actuales de desarrollo FrontEnd, y de Inglés para Desarrolladores."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PERYTAS | Peritajes y tasaciones"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2013-03-01",
+            "finishDate": "2015-11-01",
+            "challenges": [
+              {
+                "description": "Como Solo Developer, lideré el desarrollo integral de la 𝗽𝗿𝗲𝘀𝗲𝗻𝗰𝗶𝗮 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 de la empresa. Construyendo la web corporativa y blog en WordPress, traduciendo los prototipos del equipo de diseño de UX externo, y creando landing pages de 𝗮𝗹𝘁𝗮 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗶𝗼́𝗻 con PHP y JavaScript.  La implementación de una 𝗲𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗮 𝗱𝗲 𝗦𝗘𝗢 disruptiva fue tan efectiva que posicionó a la empresa para competir directamente con una multinacional líder en el sector."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Mimbre"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de eCommerce",
+            "startDate": "2011-01-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "Durante varios años, me hice responsable de la 𝗲𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗮 𝗱𝗲 𝘃𝗲𝗻𝘁𝗮𝘀 online del negocio familiar, que cesó su actividad tras la jubilación de sus fundadores.  Lideré el desarrollo de una tienda online con 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 y 𝗪𝗼𝗼𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲, que nos permitió 𝗽𝗼𝘀𝗶𝗰𝗶𝗼𝗻𝗮𝗿𝗻𝗼𝘀 por delante de la competencia local y expandir nuestro alcance de mercado de manera significativa.  Esta experiencia me aportó un 𝗰𝗼𝗻𝗼𝗰𝗶𝗺𝗶𝗲𝗻𝘁𝗼 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝗹 del e-commerce, gestionando todo el ciclo, desde la atención al 𝗰𝗹𝗶𝗲𝗻𝘁𝗲 y la negociación con 𝗽𝗿𝗼𝘃𝗲𝗲𝗱𝗼𝗿𝗲𝘀 hasta la coordinación con empresas de transporte."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Abaco Andaluza de Arte y Artesania"
+        },
+        "roles": [
+          {
+            "name": "Back End developer",
+            "startDate": "2009-11-01",
+            "finishDate": "2010-07-01",
+            "challenges": [
+              {
+                "description": "Programación de aplicaciones en PHP bajo entorno Linux, con mantenimiento de servidor Apache y gestión bases de datos MySQL."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Diario Granada Hoy"
+        },
+        "roles": [
+          {
+            "name": "Técnico de mantenimiento de Web",
+            "startDate": "2009-04-01",
+            "finishDate": "2009-09-01",
+            "challenges": [
+              {
+                "description": "Gestión de contenidos y creación de galerías gráficas para la web de la empresa, así como formación sobre el manejo de las herramientas del sistema de información al grupo de trabajo."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lamp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WooCommerce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "FPO",
+        "startDate": "2007-12-01",
+        "institution": {
+          "name": "Instituto Tecnológico y Formación - ITEF"
+        },
+        "finishDate": "2008-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior",
+        "startDate": "2005-09-01",
+        "institution": {
+          "name": "IES Zaidín Vergeles"
+        },
+        "finishDate": "2007-06-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/aguadobueno/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ]
+  }
+}
