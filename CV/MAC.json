@@ -269,6 +269,10 @@
           "type": "technology"
         },
         {
+          "name": "Cursor",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
