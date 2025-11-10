@@ -259,6 +259,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
