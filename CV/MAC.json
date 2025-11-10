@@ -261,6 +261,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
           "name": "Laravel",
           "type": "technology"
         },
