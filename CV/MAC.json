@@ -265,6 +265,10 @@
           "type": "technology"
         },
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "Claude Code",
           "type": "technology"
         },
