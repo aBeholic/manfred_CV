@@ -261,6 +261,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
