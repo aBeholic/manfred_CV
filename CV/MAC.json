@@ -260,6 +260,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Capacidad de mentorización",
           "type": "practice"
         }
