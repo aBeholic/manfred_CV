@@ -24,6 +24,11 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/aguadobueno/"
+      },
+      {
+        "type": "other",
+        "URL": "https://abeholic.github.io/vue-resume/",
+        "description": "Mi CV en Vue.js"
       }
     ]
   },
@@ -274,6 +279,10 @@
         },
         {
           "name": "Cursor",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
           "type": "technology"
         },
         {
