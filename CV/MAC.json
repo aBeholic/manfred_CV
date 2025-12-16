@@ -268,7 +268,12 @@
         "name": "Técnico Superior",
         "startDate": "2005-09-01",
         "institution": {
-          "name": "IES Zaidín Vergeles"
+          "name": "IES Zaidín Vergeles",
+          "URL": "https://www.ieszaidinvergeles.org",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/16/06b915b3-0cdf-4b1f-8c58-ff87c519e291_logo-zaidin-vergeles.png",
+            "alt": "logo-zaidin-vergeles.png"
+          }
         },
         "finishDate": "2007-06-01"
       }
