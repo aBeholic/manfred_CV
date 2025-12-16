@@ -384,6 +384,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Me gustaría trabajar junto a un equipo de personas con **buena comunicación**, en proyectos que puedan ser **relevantes** en su ámbito. Donde pueda contribuir con mi experiencia al crecimiento de los demás, y me sienta a la vez respaldado cuando necesite **aprender algo nuevo**.\nNo me importaría que el puesto requiera tecnologías o aptitudes que estén fuera de mi stack habitual, me motiva encontrar soluciones creativas a problemas diferentes."
+    "desiredJobDescription": "Me gustaría trabajar junto a un equipo de personas con **buena comunicación**, en proyectos que puedan ser **relevantes** en su ámbito. Donde pueda contribuir con mi experiencia al crecimiento de los demás, y me sienta a la vez respaldado cuando necesite **aprender algo nuevo**.\nNo me importaría que el puesto requiera tecnologías o aptitudes que estén fuera de mi stack habitual, me motiva encontrar soluciones creativas a problemas diferentes.",
+    "goodPractices": "Siempre procuro que mi código sea limpio, **descriptivo** y bien estructurado. Respeto los principios SOLID y puedo adaptarme a la **arquitectura** que requiera un determinado proyecto según su alcance, escalabilidad u otros factores.\n\nLa vida de freelance o solo developer no ofrece muchas oportunidades para poner en práctica metodologías Agile como SCRUM o Kanban, aunque conozco sus fundamentos y estoy **DESEANDO** poder unirme a un equipo de trabajo bien organizado y comunicativo donde poner en práctica esa dinámica que me parece apasionante."
   }
 }
