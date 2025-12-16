@@ -21,6 +21,21 @@
         "municipality": "Granada"
       }
     },
+    "recommendations": [
+      {
+        "title": "The Software Engineer's Guidebook",
+        "type": "reading",
+        "URL": "https://www.engguidebook.com/",
+        "summary": "Una guía de buenas prácticas y algunos consejos para las diferentes etapas de tu carrera profesional como desarrollador.\n\nDesde que lo leí, llevo mi propio **\"Work Log\"** en cada proyecto.",
+        "authors": [
+          {
+            "name": "Gergely",
+            "surnames": "Orosz",
+            "title": "Author"
+          }
+        ]
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
@@ -385,6 +400,12 @@
       }
     ],
     "desiredJobDescription": "Me gustaría trabajar junto a un equipo de personas con **buena comunicación**, en proyectos que puedan ser **relevantes** en su ámbito. Donde pueda contribuir con mi experiencia al crecimiento de los demás, y me sienta a la vez respaldado cuando necesite **aprender algo nuevo**.\nNo me importaría que el puesto requiera tecnologías o aptitudes que estén fuera de mi stack habitual, me motiva encontrar soluciones creativas a problemas diferentes.",
-    "goodPractices": "Siempre procuro que mi código sea limpio, **descriptivo** y bien estructurado. Respeto los principios SOLID y puedo adaptarme a la **arquitectura** que requiera un determinado proyecto según su alcance, escalabilidad u otros factores.\n\nLa vida de freelance o solo developer no ofrece muchas oportunidades para poner en práctica metodologías Agile como SCRUM o Kanban, aunque conozco sus fundamentos y estoy **DESEANDO** poder unirme a un equipo de trabajo bien organizado y comunicativo donde poner en práctica esa dinámica que me parece apasionante."
+    "goodPractices": "Siempre procuro que mi código sea limpio, **descriptivo** y bien estructurado. Respeto los principios SOLID y puedo adaptarme a la **arquitectura** que requiera un determinado proyecto según su alcance, escalabilidad u otros factores.\n\nLa vida de freelance o solo developer no ofrece muchas oportunidades para poner en práctica metodologías Agile como SCRUM o Kanban, aunque conozco sus fundamentos y estoy **DESEANDO** poder unirme a un equipo de trabajo bien organizado y comunicativo donde poner en práctica esa dinámica que me parece apasionante.",
+    "bookmarks": [
+      {
+        "name": "The Software Engineer's Guidebook",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/16/8b64f190-ff95-4379-9dba-e641c0334691_engguidebook_full_co.png"
+      }
+    ]
   }
 }
