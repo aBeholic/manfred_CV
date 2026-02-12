@@ -11,8 +11,8 @@
       "title": "Full Stack Developer",
       "description": "Con más de 10 años de experiencia como freelance, realizo soluciones de **e-commerce** y landing de productos para pymes y academias. Mi objetivo es que se sientan **eficaces** y **cercanas**.\n\nDeseo aportar mi enfoque analítico y **actitud colaborativa** en retos emocionantes. También disfruto el rol de **mentor** como una forma gratificante de aprender continuamente y asegurar el **crecimiento del equipo**.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/10/0155d649-7940-4f12-ba73-bd5cd0a9faf5_avatar.jpg",
-        "alt": "avatar.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/12/bb27b70b-ff38-45d9-8c14-74fb8d1f072a_profile_.png",
+        "alt": "profile_.png"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJfcIyLeb8cQ0Rcg1g0533WJI)",
@@ -255,7 +255,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "FPO",
+        "name": "FPO Técnico de Programación de Aplicaciones",
         "startDate": "2007-12-01",
         "institution": {
           "name": "Instituto Tecnológico y Formación - ITEF"
